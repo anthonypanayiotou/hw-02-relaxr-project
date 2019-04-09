@@ -48,3 +48,10 @@ body.blog {
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
+
+
+.linkbox{
+  display: flex;
+  justify-content: flex-end;
+  align-content: space-around;
+}
